@@ -1,0 +1,14 @@
+Base prompt:
+Generate questions for Industry 4.0 maintenance readiness assessment
+
+Clusters: 5
+
+Keywords per cluster:
+  cluster 1: ['maintenance', 'strategy', 'maintenance strategy', 'does', 'industry', 'effectiveness']
+  cluster 3: ['maintenance', 'digital', 'used', 'digital twins', 'twins', 'tools']
+  cluster 0: ['maintenance', 'use', 'time', 'real', 'real time', 'iot']
+  cluster 4: ['maintenance', 'data', 'maintenance data', 'use', 'historical', 'security']
+  cluster 2: ['maintenance', 'systems', 'ai', 'management', 'integrated', 'decision']
+
+Refined prompt:
+Generate questions for Industry 4.0 maintenance readiness assessment. Include questions covering: terms related to maintenance, use, time, real, real time, iot; terms related to maintenance, strategy, maintenance strategy, does, industry, effectiveness; terms related to maintenance, systems, ai, management, integrated, decision; terms related to maintenance, digital, used, digital twins, twins, tools; terms related to maintenance, data, maintenance data, use, historical, security.
