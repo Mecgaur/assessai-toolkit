@@ -1,0 +1,31 @@
+Subcategory,Question,Specificity Score
+Maintenance Strategy,Does your organization have a predictive maintenance strategy in place?,4
+Maintenance Strategy,How frequently is your maintenance strategy reviewed and updated?,4
+Maintenance Strategy,Is there a structured process for implementing Industry 4.0 technologies in maintenance?,4
+Maintenance Strategy,Do you use historical maintenance data to optimize strategy formulation?,4
+Maintenance Strategy,How well does your maintenance strategy align with overall business objectives?,2
+Maintenance Practices,Are maintenance best practices documented and followed consistently?,4
+Maintenance Practices,How effectively are Industry 4.0 technologies integrated into maintenance practices?,2
+Maintenance Practices,Do technicians receive regular training on emerging maintenance technologies?,4
+Maintenance Practices,Is there a standardized process for continuous improvement in maintenance practices?,4
+Maintenance Practices,How well is knowledge management handled in your maintenance department?,2
+Maintenance Planning,Is maintenance planning supported by real-time data and analytics?,3
+Maintenance Planning,How accurately are maintenance schedules followed?,2
+Maintenance Planning,Does your organization use digital tools for maintenance scheduling and resource allocation?,3
+Maintenance Planning,Are downtime impacts considered during maintenance planning?,4
+Maintenance Planning,How proactive is your organization in planning for spare parts availability?,2
+Monitoring Maintenance,Is IoT used to monitor equipment performance in real-time?,3
+Monitoring Maintenance,How effectively is machine health data utilized for maintenance decision-making?,2
+Monitoring Maintenance,Are condition-based monitoring techniques employed in your maintenance processes?,3
+Monitoring Maintenance,How often is maintenance performance analyzed using digital dashboards?,3
+Monitoring Maintenance,Is there an automated alert system for predictive maintenance actions?,4
+Maintenance Management,Does your organization have a centralized digital maintenance management system?,4
+Maintenance Management,How effectively is maintenance data shared across departments?,1
+Maintenance Management,"Is maintenance management integrated with other Industry 4.0 systems (e.g., ERP, MES)?",3
+Maintenance Management,How are maintenance costs tracked and optimized?,3
+Maintenance Management,Are key maintenance KPIs monitored and used for decision-making?,4
+Maintenance Workflow,Are maintenance workflows digitized and streamlined for efficiency?,2
+Maintenance Workflow,How effectively is workflow automation used in maintenance operations?,2
+Maintenance Workflow,Is there a seamless coordination between maintenance teams and production units?,3
+Maintenance Workflow,Are mobile technologies utilized for real-time maintenance updates?,3
+Maintenance Workflow,How well are maintenance requests tracked and managed through digital platforms?,2

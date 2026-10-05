@@ -1,0 +1,31 @@
+Category,Question,Specificity Score
+Strategy & Organization,Does your company have a clearly defined Industry 4.0 strategy for maintenance?,4
+Strategy & Organization,How aligned is your maintenance strategy with the overall digital transformation goals of your company?,2
+Strategy & Organization,Is there a structured roadmap for implementing smart maintenance technologies?,3
+Strategy & Organization,How mature is the change management process for adopting digital maintenance solutions?,2
+Strategy & Organization,Does senior management actively support digital transformation in maintenance?,4
+Technology & Digitalization,"Are predictive maintenance techniques (e.g., condition monitoring, AI-based analytics) currently implemented?",3
+Technology & Digitalization,To what extent are IoT-enabled sensors deployed for real-time equipment monitoring?,2
+Technology & Digitalization,How effectively does your maintenance function use digital twins for asset lifecycle management?,2
+Technology & Digitalization,Is augmented reality (AR) or virtual reality (VR) used for maintenance training or troubleshooting?,4
+Technology & Digitalization,"How integrated are maintenance management systems with enterprise systems (ERP, MES, CMMS)?",2
+Data Management & Analytics,"Is maintenance data collected, stored, and analyzed in real time?",3
+Data Management & Analytics,How effectively are data analytics and AI used to predict equipment failures?,2
+Data Management & Analytics,"Are maintenance KPIs (e.g., MTBF, MTTR, OEE) automatically monitored and optimized?",3
+Data Management & Analytics,How secure and reliable is your data infrastructure for maintenance operations?,2
+Data Management & Analytics,Do you have a centralized dashboard for real-time asset health monitoring?,3
+Automation & Smart Equipment,Are autonomous or semi-autonomous maintenance robots used for inspections or repairs?,3
+Automation & Smart Equipment,To what extent is automation used for spare parts management and inventory control?,2
+Automation & Smart Equipment,Are machine learning models used to optimize maintenance schedules?,3
+Automation & Smart Equipment,How integrated are smart sensors with maintenance execution workflows?,2
+Automation & Smart Equipment,Does your organization use self-diagnosing or self-healing systems for asset management?,4
+Workforce & Skills,What percentage of your maintenance workforce is trained in Industry 4.0 technologies?,3
+Workforce & Skills,Do maintenance teams have access to digital work instructions and remote support tools?,4
+Workforce & Skills,How well does your organization support upskilling and reskilling for digital maintenance?,2
+Workforce & Skills,"Are mobile devices, wearables, or smart glasses used to enhance maintenance efficiency?",3
+Workforce & Skills,Is a knowledge management system in place to capture and share maintenance expertise?,3
+Connectivity & Integration,How well are OT (Operational Technology) and IT (Information Technology) systems integrated for maintenance?,3
+Connectivity & Integration,Are cloud computing or edge computing technologies used for real-time maintenance data processing?,4
+Connectivity & Integration,How reliable and scalable is the communication infrastructure for connected maintenance operations?,2
+Connectivity & Integration,Is cybersecurity considered in maintenance system integration and IoT device management?,3
+Connectivity & Integration,How effectively are external partners and suppliers integrated into the digital maintenance ecosystem?,2
