@@ -202,6 +202,5 @@ Lad.
 
 ## License
 
-License to be determined. The code and documentation are currently
-released for research and non-commercial use only.
+The code and documentation are currently released for research and non-commercial use only.
 
