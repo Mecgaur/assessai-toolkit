@@ -1,15 +1,17 @@
-# AssessAI Toolkit
+# AssessAI Toolkit 
 
 A Python toolkit for evaluating and improving the quality of
 LLM-generated assessment questions. Built during M.Tech research at
 IIT Indore, then extended into a small comparative study of specificity
-methods.
+methods. 
 
 The toolkit exposes three metrics — **specificity**, **repetition**,
 **coverage** — and a **prompt-tuning** loop that clusters questions,
 extracts keywords, and suggests refinements. The study measures which
 specificity method best correlates with human judgment on 60 hand-labeled
-questions.
+questions. 
+
+The full project is still under works.
 
 ## Headline finding
 
